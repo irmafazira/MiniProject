@@ -17,3 +17,5 @@ Pening aaa
 pakai internet kat bilik boleh ahhh gaisss 
 
 tanpa cintamu aku sakit
+
+tanpa kasihmu aku hampa , selepas kena penampa.
