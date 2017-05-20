@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Home.aspx" title="Home"  description="">
+    <siteMapNode url="Places.aspx" title="Places"  description="" />
+    <siteMapNode url="Package.aspx" title="Package"  description="" >
+      <siteMapNode url="~/package/AdultPack.aspx" title="Personal Package"  description="" />    
+      <siteMapNode url="~/package/FamPack.aspx" title="Family Package"  description="" />       
+      <siteMapNode url="~/package/GroupPack.aspx" title="Group Package"  description=""/>
+      <siteMapNode url="~/package/HoneymoonPack.aspx" title="HoneyMoon Package"  description=""/>
+        <siteMapNode url="~/Form/Booking.aspx" title=" Booking"  description="" />
+      </siteMapNode>
+      <siteMapNode url="~/Form/SignIn.aspx" title="SignIn"  description="" >
+    <siteMapNode url="~/Form/Register.aspx" title="Register"  description="" />
+      </siteMapNode>
+  </siteMapNode>
+
+</siteMap>

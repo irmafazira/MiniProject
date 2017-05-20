@@ -1,0 +1,51 @@
+/* Styles for the card*/
+.card{
+ 
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin: 0.5em;
+			
+}		
+ 
+/* Stack both divs and hide their backs */
+.card .front, .card .back{
+	position: absolute;
+ 
+    -webkit-backface-visibility: hidden;
+       -moz-backface-visibility: hidden;
+         -o-backface-visibility: hidden;
+            backface-visibility: hidden;		
+	
+/* Apply some transitions so we see the element flip */ 
+	transition: transform 0.3s linear 0s;
+	-webkit-transition: -webkit-transform 0.3s linear 0s;
+		
+/* Assign a perspective, try this value */
+    transform: perspective(600px);
+    -webkit-transform: perspective(600px);
+	
+	width: 250px;
+	height: 250px;
+}
+ 
+/* The .back element should be rotated at first, facing his back, hidden*/
+.card .back{
+ 
+	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+	background-image: url(picture/FCbg.gif);
+	text-align: center;
+}
+ 
+/* The .front card needs to rotate when we hover, 180 degrees will do the trick*/
+.card:hover .front{
+	transform: rotateY(180deg);
+	-webkit-transform: rotateY(180deg);
+}
+ 
+/* The .back card has to rotate to 0 degrees and be visible*/
+.card:hover .back{
+	transform: rotateY(0);
+	-webkit-transform: rotateY(0);
+}
