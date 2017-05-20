@@ -19,6 +19,10 @@ public partial class Package : System.Web.UI.Page
     {
         Response.Redirect("~/package/AdultPack.aspx");
     }
+    protected void Button6_Click(object sender, EventArgs e)
+    {
+        Response.Redirect("~/package/BagPack.aspx");
+    }
     protected void Button4_Click(object sender, EventArgs e)
     {
         Response.Redirect("~/package/GroupPack.aspx");
