@@ -107,18 +107,9 @@
                         <img alt="" src="picture/osaka.jpg" style="width: 500px; height: 270px" />         
                           <br />
                             <br />
-                            Osaka (大阪, Ōsaka) is Japan&#39;s second largest metropolitan area after Tokyo. It 
-                            has been the economic powerhouse of the Kansai region for many centuries. Osaka 
-                            was formerly known as Naniwa. Before the Nara Period, when the capital used to 
-                            be moved with the reign of each new emperor, Naniwa was once Japan&#39;s capital 
-                            city, the first one ever known.<br />
-                            <br />
-                            In the 16th century, Toyotomi Hideyoshi chose Osaka as the location for his 
-                            castle, and the city may have become Japan&#39;s political capital if Tokugawa 
-                            Ieyasu had not terminated the Toyotomi lineage after Hideyoshi&#39;s death and moved 
-                            his government to distant Edo (Tokyo).<br />
-                            <br />
-                            <br />
+                           this is disgusting
+                          <br />
+                          // who write this code ????
                             INTERESTING ACTIVITIES TO DO :
                             <br />
                             <br />
