@@ -21,12 +21,12 @@
 <div id="container" align="center" style="height: 564px; vertical-align: middle; text-align: center;">
                     <div class="card">
 		                <div class="front">  <img src="picture/garden.jpg" style="height: 250px; width: 250px"/></div>
-		                <div class="back">   Gua Charas wak lu? pedia <br /><br />
+		                <div class="back">   Gardern<br /><br />
                            Walking into an oil painting? The fragrant wisteria tunnel, the most stunning 
                            display at the Kawachi Fuji Garden, makes it possible. With flowering vines 
                            overhead, the walkway is said to inspire a zen-like calm in visitors. The garden 
                            displays about 150 wisteria plants of 20 different species. It hosts the annual 
-                           Wisteria Festival at the end of April, when the flowers are in full bloom.</div></div>
+                           Wisteria Festival at the end of April, when the flowers are in full bloom. in full bloom.</div></div>
 	
                     <div class="card">  
                         <div class="front">  <img src="picture/forest.jpg" style="height: 250px; width: 250px"/></div>
