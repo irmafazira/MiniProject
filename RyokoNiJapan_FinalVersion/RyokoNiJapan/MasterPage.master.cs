@@ -26,8 +26,9 @@ public partial class MasterPage : System.Web.UI.MasterPage
         Response.Redirect("~/Form/SignIn.aspx");
     }
     protected void LinkButton1_Click(object sender, EventArgs e)
+    protected void LinkButton3_Click(object sender, EventArgs e)
     {
-        Response.Redirect("~/Home.aspx");
+        Response.Redirect("~/Package.aspx");
     }
     protected void LinkButton2_Click(object sender, EventArgs e)
     {
@@ -37,4 +38,5 @@ public partial class MasterPage : System.Web.UI.MasterPage
     {
         Response.Redirect("~/Package.aspx");
     }
+    
 }
