@@ -9,7 +9,7 @@
     <br />
     <table class="style9">
         <tr>
-            <td style="padding: 10px; border: medium groove #000000; width: 757px" 
+            <td style="padding: 10px; border: medium groove #000000; width: 777px" 
                 align="center" bgcolor="#FFCCFF">
                 &nbsp;    
     <br />

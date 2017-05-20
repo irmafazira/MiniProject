@@ -22,7 +22,7 @@
 	-webkit-transition: -webkit-transform 0.3s linear 0s;
 		
 /* Assign a perspective, try this value */
-    transform: perspective(600px);
+    transform: perspective(700px);
     -webkit-transform: perspective(600px);
 	
 	width: 250px;
