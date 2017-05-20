@@ -223,7 +223,7 @@
                             3. Furano, see and ski in Winter and rolling in lavender fields in Summer<br /> 
                             4. Enjoy into the wild activities at Shiretoko National Park<br /> 
                             5. Bear-viewing at Sahoro Resort’s Bear Mountain, Shintoku<br /> 
-                            6. Learn about Ainu culture and traditions in the villages of Poroto Kotan, <br /> &nbsp;&nbsp;&nbsp; Nibutani, and Ainu Kotan.<br /> 
+                            6. Dont learn about the culture here in Japan <br /> &nbsp;&nbsp;&nbsp; Nibutani, and Ainu Kotan.<br /> 
                             7. History buffs flock to Goryokaku, the first Western-style fortress in Japan.<br /> <br />
                         </div>
                     </asp:View>
@@ -236,8 +236,7 @@
                             <br />
                             <img alt="" src="picture/wakayama.jpg" 
                                 style="width: 500px; height: 270px" />
-                            <br />
-                            <br />
+                            
                             Wakayama City is the capital city of Wakayama Prefecture in the Kansai region. 
                             Wakayama Prefecture is famous across Japan for its umeboshi, salty pickled 
                             plums, and mikan (tangerines).
