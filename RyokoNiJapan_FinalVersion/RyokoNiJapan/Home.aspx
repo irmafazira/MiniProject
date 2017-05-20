@@ -120,6 +120,7 @@
             has concentrated its efforts in producing quality travel, responding to the 
             needs of the times while anticipating the demands of the future.
             <br />
+		Hello this new Japan! Welcome to Japan!!!
             <br />
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You will discover that Nippon Travel Agency is quite diverse. We use 
             our diversity in and out of the travel industry to address various global 
