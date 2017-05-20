@@ -13,3 +13,6 @@ Bukan kau dah cakap ke tadi? Alaaaa. Tapi kenapa boss tak reply ni em
 
 
 Pening aaa
+
+
+OKAY (ANJA)
