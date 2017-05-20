@@ -15,7 +15,7 @@
                     ImageUrl="~/picture/family.jpg" Width="250px" />
             </td>
             <td style="height: 23px">
-                <asp:Label ID="bel1" runat="server" Text="Family Package" 
+                <asp:Label ID="bel1" runat="server" Text="Abandon Family Package" 
                     style="font-family: 'Bradley Hand ITC'; font-size: large; font-weight: bold"></asp:Label>
                 <br />
                 <br />

@@ -21,7 +21,7 @@
 <div id="container" align="center" style="height: 564px; vertical-align: middle; text-align: center;">
                     <div class="card">
 		                <div class="front">  <img src="picture/garden.jpg" style="height: 250px; width: 250px"/></div>
-		                <div class="back">   Kawachi Fuji Garden<br /><br />
+		                <div class="back">   Gua Charas<br /><br />
                            Walking into an oil painting? The fragrant wisteria tunnel, the most stunning 
                            display at the Kawachi Fuji Garden, makes it possible. With flowering vines 
                            overhead, the walkway is said to inspire a zen-like calm in visitors. The garden 
