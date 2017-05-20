@@ -15,3 +15,5 @@ Bukan kau dah cakap ke tadi? Alaaaa. Tapi kenapa boss tak reply ni em
 Pening aaa
 
 pakai internet kat bilik boleh ahhh gaisss 
+
+tu ahhhh
