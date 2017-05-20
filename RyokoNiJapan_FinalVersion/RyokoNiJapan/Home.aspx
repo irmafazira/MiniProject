@@ -6,7 +6,7 @@
     <div class="video" style="text-align:center;">
     <asp:Panel ID="Panel1" runat="server">
             <asp:Panel ID="Panel2" runat="server" BackImageUrl="~/picture/jpn.gif" 
-                HorizontalAlign="Right" Width="100%" Height="289px">
+                HorizontalAlign="Right" Width="100%" Height="300px">
                 <br /> 
                 <br />
                 <br />
