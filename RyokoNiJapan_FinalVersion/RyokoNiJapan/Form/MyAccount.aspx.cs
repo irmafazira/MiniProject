@@ -32,7 +32,7 @@ public partial class Form_MyAccount : System.Web.UI.Page
         try
         {
             SqlDataReader myReader = null;
-            SqlCommand myCommand = new SqlCommand("select * from RyokoNiJapan.dbo.Register",conn);
+            SqlCommand myCommand = new SqlCommand("select * from RyokoNiJapan.dbo.Register where id = username=@username AND password=@password",conn);
             myReader = myCommand.ExecuteReader();
             while (myReader.Read())
             {
