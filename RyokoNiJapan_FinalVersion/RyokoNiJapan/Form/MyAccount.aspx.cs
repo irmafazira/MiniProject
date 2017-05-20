@@ -37,7 +37,7 @@ public partial class Form_MyAccount : System.Web.UI.Page
             while (myReader.Read())
             {
                 lblname.Text = myReader["username"].ToString();
-                lblemail.Text = myReader["emailid"].ToString();
+                lblemail.Text = myReader["emailID"].ToString();
                 lblphone.Text = myReader["phonenumber"].ToString();
                 lblgender.Text = myReader["gender"].ToString();
                 lbldob.Text = myReader["datebirth"].ToString();
