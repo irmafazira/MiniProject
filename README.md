@@ -10,3 +10,6 @@ woi anja bila masa aku cakap nak belanja. kurang ajar.
 
 
 Bukan kau dah cakap ke tadi? Alaaaa. Tapi kenapa boss tak reply ni em
+
+
+Pening aaa
